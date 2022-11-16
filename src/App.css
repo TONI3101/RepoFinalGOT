@@ -1,0 +1,202 @@
+
+.space {
+  width: 100%;
+}
+
+.generalBox {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 80%;
+}
+
+.housesContainer {
+  width: 80%;
+  margin-top: 20px;
+  height: 450px;
+}
+
+.barBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.houseBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 200px;
+}
+
+.banner {
+  width: 120px;
+}
+
+.names {
+  color: rgb(255, 255, 255);
+  font-family: GoT;
+  font-size: 10px;
+  margin-top: 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.simplebar {
+  width: 5px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  opacity: 50%;
+}
+
+.track {
+  color: rgb(255, 255, 255);
+}
+
+.head {
+  width: 100%;
+  height: 40px;
+  z-index: 1;
+}
+
+.back {
+  width: 20px;
+  margin: 20px;
+}
+
+.buttonbox {
+  width: 30px;
+  display: flex;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  bottom: 5%;
+  width: 100%;
+  height: 40px;
+  background-color: transparent;
+  margin-top: 20px;
+}
+.navBar--home {
+  background-color: black;
+}
+
+.link {
+  background-color: transparent;
+  font-family: Got;
+  color: white;
+  text-decoration: none;
+  font-weight: 100;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.active {
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+.bigBox {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.imgAndText {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  font-size: 10px;
+}
+
+.bigBanner {
+  width: 190px;
+  margin: 15px 0px 20px 0px;
+}
+
+.houseName {
+  font-family: Got;
+  color: white;
+  height: 20px;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 4px;
+  word-spacing: 5px;
+}
+
+.genInfoBox {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.infoBox {
+  width: 100px;
+  height: 100px;
+  padding: 3px;
+  margin: 0px 30px 0px 30px;
+}
+
+.titles {
+  font-family: Got;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  opacity: 60%;
+}
+.titles--info {
+  font-size: 8px;
+  margin-top: 20px;
+  line-height: 15px;
+  opacity: 100%;
+}
+
+.background-2 {
+  background-image: url(../../public/CalculatingGrippingBantamrooster-mobile.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+
+.head {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+.finder {
+  position: fixed;
+  margin-left: 100px;
+  width: 475px;
+  height: 25px;
+  top: 3%;
+  left: 4%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid rgb(198, 198, 198);
+  background-color: black;
+  color: white;
+  font-family: Got;
+  font-weight: 900;
+  padding-top: 10px;
+}
+
+.divfilter {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.background {
+  background-color: #000000;
+  width: 100%;
+  height: 100%;
+}/*# sourceMappingURL=App.css.map */

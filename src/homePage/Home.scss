@@ -1,0 +1,30 @@
+.img{
+    background-image: url(../../public/got.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.titlebox{
+    flex-wrap: wrap;
+    display: flex;
+    
+    width: 600px;
+    text-align: center;
+
+}
+
+.title{
+    font-family: Got;
+    font-size: 100px;
+    color: white;  
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    font-weight: 200;
+}

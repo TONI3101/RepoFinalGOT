@@ -1,0 +1,66 @@
+.space{
+    width: 100%;
+}
+
+.generalBox{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+.housesContainer{
+    width: 80%;
+    margin-top: 20px;
+    height: 450px;  
+}
+
+.barBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.houseBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+}
+
+.banner{
+    width: 120px;
+}
+
+.names{
+    color: rgb(255, 255, 255);
+    font-family: GoT;   
+    font-size: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.simplebar{
+
+    width: 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    opacity: 50%;
+    
+}
+
+.track{
+    color: rgb(255, 255, 255);
+}
+
+.head{
+    width: 100%;
+    height: 40px;
+    z-index: 1;
+}
+
+
+

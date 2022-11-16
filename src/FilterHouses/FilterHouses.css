@@ -1,0 +1,21 @@
+.finder {
+  position: fixed;
+  margin-left: 100px;
+  width: 475px;
+  height: 25px;
+  top: 3%;
+  left: 4%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid rgb(198, 198, 198);
+  background-color: black;
+  color: white;
+  font-family: Got;
+  font-weight: 900;
+  padding-top: 10px;
+}
+
+.divfilter {
+  display: flex;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=FilterHouses.css.map */
